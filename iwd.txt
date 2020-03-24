@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+      <meta charset="UTf-8">
+      <title>Tabela do campeonato</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+<body>
+  <div class="divtudo">
+
+    <div class="divlinha">
+      <div id="divcabecalho">
+        <h1 id="h1titulo">Tabela dos jogos</h1>
+      </div>
+
+    </div>
+
+  <div class="divlinha">
+    <div id="divclassificaçao">
+      <h2 class="h2titulosessao">classificaçao</h2>
+      <h3 id="h3grupo">grupo A</h3>
+      <table id="tabelaclassificacao">
+        <tr>
+          <th colspan="2">clube</th>
+          <th>PTS</th>
+          <th>PJ</th>
+          <th>VIT</th>
+          <th>E</th>
+          <th>D</th>
+          <th>GP</th>
+          <th>GC</th>
+          <th>SG</th>
+          <th>Ultimas Cinco</th>
+        
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>clube</td>
+          <td>10</td>
+          <td>4</td>
+          <td>3</td>
+          <td>1</td>
+          <td>0</td>
+          <td>6</td>
+          <td>1</td>
+          <td>5</td>
+          <td>x x x x</td>
+        </tr>
+
+        <tr>
+          <td>1</td>
+          <td>clube</td>
+          <td>10</td>
+          <td>4</td>
+          <td>3</td>
+          <td>1</td>
+          <td>0</td>
+          <td>6</td>
+          <td>1</td>
+          <td>5</td>
+          <td>x x x x</td>
+
+        </tr>
+        </table>
+        </div>
+  </div>
+  <div class="divlinha">
+    <div id="divgoleadores">
+      <h2 class="h2titulosessao">goleadores</h2>
+      <table id="tabelagoleadores">
+        <tr>
+          <th colspan="2">jogador</th>
+          <th>gols</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Nome do jogador</td>
+          <td>8</td>
+
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>nome do jogador 2</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  
+  <div class="divlinha">
+    <div id="divjogos">
+      <h2 class="h2titulosessao">jogos</h2>
+      <table id="tabelajogos">
+        <tr>
+          <th colspan="2">Próximos Jogos</th>
+        </tr>
+        <tr>
+          <td>
+            Time1 x Time 2
+          </td>
+          <td>
+            Time3 x Time 4
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Time 5 x Time 6
+          </td>
+          <td>
+            Time 7 x TIme 8
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+
+
+</div>
+        
+
+      </table>
+</body>
+</html>
